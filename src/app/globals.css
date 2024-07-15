@@ -31,3 +31,13 @@ body {
     text-wrap: balance;
   }
 }
+
+::-webkit-scrollbar {
+  width: 5px;
+  background-color: black;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: rgb(130, 128, 128);
+  border-radius: 150px;
+}
